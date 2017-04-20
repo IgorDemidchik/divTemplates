@@ -10,6 +10,9 @@ public class BuilderApp {
 //					.build();
 //		System.out.println(car);
 		
+		
+// TO DO: 
+// Add new test comments to commit and show how it works
 		Director director = new Director();
 		director.setBuilder(new FordMondeoBuilder());
 		Car car = director.BuildCar();
