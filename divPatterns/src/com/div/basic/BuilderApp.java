@@ -17,6 +17,11 @@ public class BuilderApp {
 		director.setBuilder(new FordMondeoBuilder());
 		Car car = director.BuildCar();
 		System.out.println(car);
+
+// TO DO: 
+// Add third commit and check how it works... 		
+		
+		
 	}
 }
 
