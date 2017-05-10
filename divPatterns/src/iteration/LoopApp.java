@@ -1,4 +1,4 @@
-package procedural.iteration;
+package iteration; 
 
 public class LoopApp {
 
@@ -35,12 +35,7 @@ public class LoopApp {
 		//}
 		
 		//инвертировать массив 
-		
-		
-		
-		
-
-		
+	
 		
 	}
 
